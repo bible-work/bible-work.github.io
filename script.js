@@ -141,7 +141,7 @@ const questions = [
     answers: [
       { text: "'קראו תיגר על ה", correct: true },
       { text: "חיפשו תחביב", correct: false },
-      { text: "העריצו אלילים", correct: true },
+      { text: "העריצו אלילים", correct: false },
       { text: "הם היו איטיים בבנייה", correct: false }
     ]
   },
